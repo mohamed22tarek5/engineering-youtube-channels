@@ -346,27 +346,3 @@ https://www.youtube.com/channel/UCdXHgsCiql_78oT5ydXWvzw
 
 لو القائمة مفيدة بالنسبة لك، اعمل Save أو Share عشان ترجع لها وقت ما تحتاجها. ⚡️
 
-## 🏷️ Suggested Topics
-
-`Electronics` · `Embedded Systems` · `PCB Design` · `Reverse Engineering` · `IoT` · `Hardware` · `DIY` · `Engineering` · `Arduino` · `ESP32` · `STM32`
-
----
-
-## 📌 LinkedIn Caption
-
-أشارك معاكم قائمة بالـYouTube Channels اللي بأتابعها وبعتبرها من أهم المصادر اللي استفدت منها في:
-
-Electronics · Embedded Systems · PCB Design · Reverse Engineering · IoT · Hardware · Repair · DIY · CNC · 3D Printing · Communication & RF
-
-القائمة دي خلاصة تجربتي الشخصية، ومش شرط كل قناة تكون مناسبة لكل شخص أو كل مستوى.
-
-جمعت فيها **14 قناة عربية** و**46 قناة أجنبية**، مع **64 رابط YouTube** مباشر، عشان تكون مرجع سهل لأي حد بيتعلم أو بيشتغل في المجالات دي.
-
-من القنوات الموجودة:
-EEVblog, Ben Eater, Andreas Spiess, ElectroBOOM, GreatScott!, The Signal Path, mikeselectricstuff, Julian Ilett, DiodeGoneWild وغيرهم.
-
-لو عندك Channel شايف إنها تستحق الإضافة، ابعتها في Comment 👇
-
-اعمل Save أو Share للقائمة عشان ترجع لها وقت ما تحتاجها. ⚡️
-
-#Electronics #EmbeddedSystems #PCBDesign #ReverseEngineering #Engineering
