@@ -6,7 +6,9 @@
 > **Electronics · Embedded Systems · PCB Design · Reverse Engineering · IoT · Hardware · Repair · Troubleshooting · DIY · CNC · 3D Printing · Communication · RF**
 >
 > **ملاحظة:** هذه القائمة تمثل تجربة شخصية ومصادر أتابعها، وليست تصنيفًا أو ترتيبًا للقنوات. اختلاف المستوى والهدف يجعل القناة المناسبة لشخص ما مختلفة عن غيره.
+> 📌 **المصدر الأصلي:** هذا البوست مبني على قائمة **المهندس عمر مكاوي**: https://www.linkedin.com/pulse/recommended-youtube-channels-omar-khaled-mekkawy/
 
+> ✍️ **التعديل والتنظيم:** تم تعديل القائمة وإعادة ترتيبها وتصنيفها بواسطة **المهندس محمد طارق**: https://www.linkedin.com/in/mohamedtarek225
 ---
 
 # 🧭 التصنيف حسب المجال
@@ -512,6 +514,9 @@
 
 ---
 
+> 📌 **المصدر الأصلي:** هذا البوست مبني على قائمة **المهندس عمر مكاوي**: https://www.linkedin.com/pulse/recommended-youtube-channels-omar-khaled-mekkawy/
+
+> ✍️ **التعديل والتنظيم:** تم تعديل القائمة وإعادة ترتيبها وتصنيفها بواسطة **المهندس محمد طارق**: https://www.linkedin.com/in/mohamedtarek225
 # 💬 مشاركة القائمة
 
 لو عندك **YouTube Channels** تانية تستحق الإضافة، اكتبها في Comment مع المجال أو نوع المحتوى الذي تقدمه.
