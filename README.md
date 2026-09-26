@@ -86,11 +86,6 @@ DIY وElectronics وتصنيع الـPCBs.
 
 https://www.youtube.com/channel/UCuFiEuV3-1WY7SgdBARdFLw/videos
 
-### 🔹 Omar Mekkawy
-قناتي الشخصية، وإن شاء الله هنزل عليها محتوى الفترة الجاية.
-
-https://www.youtube.com/channel/UCQ1gx8hpvyplNvPGOptf6Uw/featured?view_as=subscriber
-
 ---
 
 ## 🌎 المحتوى الأجنبي
